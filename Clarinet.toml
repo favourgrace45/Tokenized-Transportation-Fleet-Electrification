@@ -5,8 +5,28 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.charging-infrastructure]
+path = 'contracts/charging-infrastructure.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.emission-tracking]
+path = 'contracts/emission-tracking.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.fleet-verificaiton]
 path = 'contracts/fleet-verificaiton.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.route-optimization]
+path = 'contracts/route-optimization.clar'
+clarity_version = 2
+epoch = 2.5
+
+[contracts.vehicle-registration]
+path = 'contracts/vehicle-registration.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
