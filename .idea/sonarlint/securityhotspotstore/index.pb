@@ -9,3 +9,5 @@ P
  contracts/emission-tracking.clar,7/3/73fc33a5c6634e8555ba6add6fb8c6db29d12811
 Q
 !contracts/route-optimization.clar,0/3/038d909864c1fd35bd54b4e4486b984891d68742
+S
+#contracts/vehicle-registration.clar,8/9/8951745f7048259d44f3ea336f35763bdc1d99fa
