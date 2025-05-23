@@ -7,3 +7,5 @@ V
 &contracts/charging-infrastructure.clar,5/5/55db6ebf7169e8ae5c2b1a5318795abd1ffc3348
 P
  contracts/emission-tracking.clar,7/3/73fc33a5c6634e8555ba6add6fb8c6db29d12811
+Q
+!contracts/route-optimization.clar,0/3/038d909864c1fd35bd54b4e4486b984891d68742
