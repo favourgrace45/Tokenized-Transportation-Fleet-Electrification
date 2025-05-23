@@ -5,3 +5,5 @@ Q
 !contracts/fleet-verificaiton.clar,7/d/7db82f167cd256da5a4ca0cd08f496450c393ffa
 V
 &contracts/charging-infrastructure.clar,5/5/55db6ebf7169e8ae5c2b1a5318795abd1ffc3348
+P
+ contracts/emission-tracking.clar,7/3/73fc33a5c6634e8555ba6add6fb8c6db29d12811
